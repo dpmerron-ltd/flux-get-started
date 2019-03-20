@@ -12,3 +12,11 @@ metadata:
   labels:
     name: test
   name: test
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: branch
+  name: branch
